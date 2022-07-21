@@ -1,0 +1,1166 @@
+{
+    "message": "Success",
+    "data": [
+      {
+        "id": 1,
+        "name": "12W (98W) E27 cap Cool daylight Non-dimmable Bulb",
+        "jenis_lampu_id": 2,
+        "merk_id": 1,
+        "besar_watt": 12,
+        "besar_lumen": 1360,
+        "harga": 60000,
+        "link_produk": "https://www.lighting.philips.co.id/id/consumer/p/led-lampu/8718696823545",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/928650926510702652/6434664d410061159b6e482b4633cb3c.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 1,
+          "name": "Philips",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 2,
+        "name": "10W (83W) E27 cap Cool daylight Non-dimmable Bulb",
+        "jenis_lampu_id": 2,
+        "merk_id": 1,
+        "besar_watt": 10,
+        "besar_lumen": 1020,
+        "harga": 49000,
+        "link_produk": "https://www.lighting.philips.co.id/id/consumer/p/led-lampu/8718696822920",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/928650907137212467/5a899346ae64084af00640acb5e0ec5d.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 1,
+          "name": "Philips",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 3,
+        "name": "8W (68W) E27 cap Cool daylight Non-dimmable Bulb",
+        "jenis_lampu_id": 2,
+        "merk_id": 1,
+        "besar_watt": 8,
+        "besar_lumen": 770,
+        "harga": 44000,
+        "link_produk": "https://www.lighting.philips.co.id/id/consumer/p/led-bohlam/8718696822883",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/928650969686888558/f8f3dcae26d568fb9fc067b0d169eab0.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 1,
+          "name": "Philips",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 4,
+        "name": "6W (55W) E27 cap Cool daylight Non-dimmable Bulb",
+        "jenis_lampu_id": 2,
+        "merk_id": 1,
+        "besar_watt": 6,
+        "besar_lumen": 580,
+        "harga": 37000,
+        "link_produk": "https://www.lighting.philips.co.id/id/consumer/p/led-bohlam/8718696823569",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/928650885356208198/a72aa3e5-a6b0-4a88-b127-7600c6d1cc4b.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 1,
+          "name": "Philips",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 5,
+        "name": "4W (45W) E27 cap Cool daylight Non-dimmable Bulb",
+        "jenis_lampu_id": 2,
+        "merk_id": 1,
+        "besar_watt": 4,
+        "besar_lumen": 420,
+        "harga": 33000,
+        "link_produk": "https://www.lighting.philips.co.id/id/consumer/p/led-bohlam/8718696822807",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/928650856402939934/unknown.png?width=454&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 1,
+          "name": "Philips",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 6,
+        "name": "23 W (125 W) E27 Compact fluorescent Stick bulb",
+        "jenis_lampu_id": 1,
+        "merk_id": 1,
+        "besar_watt": 23,
+        "besar_lumen": 1170,
+        "harga": 37000,
+        "link_produk": "https://www.lighting.philips.co.id/id/consumer/p/stik-compact-fluorescent-stick-bulb/8718696453346",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984790903040385044/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 1,
+          "name": "Philips",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 7,
+        "name": "18 W (100 W) E27 Compact fluorescent Stick bulb",
+        "jenis_lampu_id": 1,
+        "merk_id": 1,
+        "besar_watt": 18,
+        "besar_lumen": 860,
+        "harga": 33000,
+        "link_produk": "https://www.lighting.philips.co.id/id/consumer/p/stik-compact-fluorescent-stick-bulb/8718696467732",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984791211112017960/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 1,
+          "name": "Philips",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 8,
+        "name": "LED Evo LDAHV13LH4A / LDAHV13DH4A",
+        "jenis_lampu_id": 2,
+        "merk_id": 2,
+        "besar_watt": 13,
+        "besar_lumen": 1320,
+        "harga": 45000,
+        "link_produk": "https://www.panasonic.com/id/consumer/lighting/led-lamp/ldahv13lh4a-ldahv13dh4a.html",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984788407253340161/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 2,
+          "name": "Panasonic",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 9,
+        "name": "LED Evo LDAHV11LH4A / LDAHV11DH4A",
+        "jenis_lampu_id": 2,
+        "merk_id": 2,
+        "besar_watt": 11,
+        "besar_lumen": 1000,
+        "harga": 37000,
+        "link_produk": "https://www.panasonic.com/id/consumer/lighting/led-lamp/ldahv11lh4a-ldahv11dh4a.html",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984788390937509918/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 2,
+          "name": "Panasonic",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 10,
+        "name": "LED Evo LDAHV9LH4A / LDAHV9DH4A",
+        "jenis_lampu_id": 2,
+        "merk_id": 2,
+        "besar_watt": 9,
+        "besar_lumen": 806,
+        "harga": 35000,
+        "link_produk": "https://www.panasonic.com/id/consumer/lighting/led-lamp/ldahv9lh4a-ldahv9dh4a.html",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984788372012818462/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 2,
+          "name": "Panasonic",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 11,
+        "name": "LED Evo LDAHV7LH4A / LDAHV7DH4A",
+        "jenis_lampu_id": 2,
+        "merk_id": 2,
+        "besar_watt": 7,
+        "besar_lumen": 600,
+        "harga": 34000,
+        "link_produk": "https://www.panasonic.com/id/consumer/lighting/led-lamp/ldahv7lh4a-ldahv7dh4a.html",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984788358129647616/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 2,
+          "name": "Panasonic",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 12,
+        "name": "LED Evo LDAHV6LH4A / LDAHV6DH4A",
+        "jenis_lampu_id": 2,
+        "merk_id": 2,
+        "besar_watt": 6,
+        "besar_lumen": 430,
+        "harga": 33000,
+        "link_produk": "https://www.panasonic.com/id/consumer/lighting/led-lamp/ldahv6lh4a-ldahv6dh4a.html",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984788280161759272/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 2,
+          "name": "Panasonic",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 13,
+        "name": "LED Evo LDAHV4LH4A / LDAHV4DH4A",
+        "jenis_lampu_id": 2,
+        "merk_id": 2,
+        "besar_watt": 5,
+        "besar_lumen": 350,
+        "harga": 27000,
+        "link_produk": "https://www.panasonic.com/id/consumer/lighting/led-lamp/ldahv4lh4a-ldahv4dh4a.html",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984785444283760680/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 2,
+          "name": "Panasonic",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 14,
+        "name": "LED Evo LDAHV3LH4A / LDAHV3DH4A",
+        "jenis_lampu_id": 2,
+        "merk_id": 2,
+        "besar_watt": 3,
+        "besar_lumen": 250,
+        "harga": 25000,
+        "link_produk": "https://www.panasonic.com/id/consumer/lighting/led-lamp/ldahv3lh4a-ldahv3dh4a.html",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984785220043690044/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 2,
+          "name": "Panasonic",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 15,
+        "name": "EFU Type EFUHV23L27A2 / EFUHV23D65A2",
+        "jenis_lampu_id": 1,
+        "merk_id": 2,
+        "besar_watt": 23,
+        "besar_lumen": 1370,
+        "harga": 37000,
+        "link_produk": "https://www.panasonic.com/id/consumer/lighting/advance/efuhv23l27a2-efuhv23d65a2.html",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984792429641236510/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 2,
+          "name": "Panasonic",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 16,
+        "name": "EFU Type EFUHV18L27A2 / EFUHV18D65A2",
+        "jenis_lampu_id": 1,
+        "merk_id": 2,
+        "besar_watt": 18,
+        "besar_lumen": 1100,
+        "harga": 31000,
+        "link_produk": "https://www.panasonic.com/id/consumer/lighting/advance/efuhv18l27a2-efuhv18d65a2.html",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984792464713973860/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 2,
+          "name": "Panasonic",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 17,
+        "name": "EFU Type EFUHV14L27A2 / EFUHV14D65A2",
+        "jenis_lampu_id": 1,
+        "merk_id": 2,
+        "besar_watt": 14,
+        "besar_lumen": 810,
+        "harga": 29000,
+        "link_produk": "https://www.panasonic.com/id/consumer/lighting/advance/efuhv14l27a2-efuhv14d65a2.html",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984792480379723806/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 2,
+          "name": "Panasonic",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 18,
+        "name": "EFU Type EFUHV11L27A2 / EFUHV11D65A2",
+        "jenis_lampu_id": 1,
+        "merk_id": 2,
+        "besar_watt": 11,
+        "besar_lumen": 620,
+        "harga": 27000,
+        "link_produk": "https://www.panasonic.com/id/consumer/lighting/advance/efuhv11l27a2-efuhv11d65a2.html",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984792496125136946/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 2,
+          "name": "Panasonic",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 19,
+        "name": "EFU Type EFUHV8L27A2 / EFUHV8D65A2",
+        "jenis_lampu_id": 1,
+        "merk_id": 2,
+        "besar_watt": 8,
+        "besar_lumen": 430,
+        "harga": 23000,
+        "link_produk": "https://www.panasonic.com/id/consumer/lighting/advance/efuhv8l27a2-efuhv8d65a2.html",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984792518082297906/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 2,
+          "name": "Panasonic",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 20,
+        "name": "LED Basic 18 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 3,
+        "besar_watt": 18,
+        "besar_lumen": 1800,
+        "harga": 50000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/led-bulb-basic/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984794716275101716/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 21,
+        "name": "LED Basic 15 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 3,
+        "besar_watt": 15,
+        "besar_lumen": 1500,
+        "harga": 42000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/led-bulb-basic/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984794735711518790/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 22,
+        "name": "LED Basic 13 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 3,
+        "besar_watt": 13,
+        "besar_lumen": 1350,
+        "harga": 35000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/led-bulb-basic/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984794759619043328/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 23,
+        "name": "LED Basic 11 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 3,
+        "besar_watt": 11,
+        "besar_lumen": 1010,
+        "harga": 30000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/led-bulb-basic/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984794778166259733/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 24,
+        "name": "LED New Basic 9 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 3,
+        "besar_watt": 9,
+        "besar_lumen": 810,
+        "harga": 27000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/led-bulb-basic/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984794789948035072/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 25,
+        "name": "LED New Basic 7 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 3,
+        "besar_watt": 7,
+        "besar_lumen": 630,
+        "harga": 25000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/led-bulb-basic/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984794806255489064/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 26,
+        "name": "LED New Basic 5 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 3,
+        "besar_watt": 5,
+        "besar_lumen": 430,
+        "harga": 19000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/led-bulb-basic/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984794819694051328/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 27,
+        "name": "LED New Basic 3 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 3,
+        "besar_watt": 3,
+        "besar_lumen": 280,
+        "harga": 16000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/led-bulb-basic/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984794836794245190/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 28,
+        "name": "3U HIJAU 26 Watt",
+        "jenis_lampu_id": 1,
+        "merk_id": 3,
+        "besar_watt": 26,
+        "besar_lumen": 1560,
+        "harga": 35000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/green-3u/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984797622168596530/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 29,
+        "name": "3U HIJAU 23 Watt",
+        "jenis_lampu_id": 1,
+        "merk_id": 3,
+        "besar_watt": 23,
+        "besar_lumen": 1380,
+        "harga": 30000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/green-3u/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984797652619247666/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 30,
+        "name": "3U HIJAU 18 Watt",
+        "jenis_lampu_id": 1,
+        "merk_id": 3,
+        "besar_watt": 18,
+        "besar_lumen": 1080,
+        "harga": 27000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/green-3u/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984797665894211594/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 31,
+        "name": "2U HIJAU 14 Watt",
+        "jenis_lampu_id": 1,
+        "merk_id": 3,
+        "besar_watt": 14,
+        "besar_lumen": 770,
+        "harga": 23000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/green-2u/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984797681480257586/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 32,
+        "name": "2U HIJAU 11 Watt",
+        "jenis_lampu_id": 1,
+        "merk_id": 3,
+        "besar_watt": 11,
+        "besar_lumen": 605,
+        "harga": 20000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/green-2u/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984797697104044082/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 33,
+        "name": "2U HIJAU 8 Watt",
+        "jenis_lampu_id": 1,
+        "merk_id": 3,
+        "besar_watt": 8,
+        "besar_lumen": 440,
+        "harga": 17000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/green-2u/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984797710500626433/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 34,
+        "name": "2U HIJAU 5 Watt",
+        "jenis_lampu_id": 1,
+        "merk_id": 3,
+        "besar_watt": 5,
+        "besar_lumen": 275,
+        "harga": 14000,
+        "link_produk": "https://www.hannochs.com/portfolio-item/green-2u/?lang=id",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984797718092320768/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 1,
+          "name": "Compact Fluorescent Lamp",
+          "singkat": "CFL",
+          "lumenperwatt": 75,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 3,
+          "name": "Hannochs",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 35,
+        "name": "LED Mutiara 15 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 4,
+        "besar_watt": 15,
+        "besar_lumen": 1521,
+        "harga": 36000,
+        "link_produk": "https://shinyokuindonesia.com/products/6016846/shinyoku-lampu-led-mutiara-15w-__-putih",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984798605711908864/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 4,
+          "name": "Shinyoku",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 36,
+        "name": "LED Mutiara 12 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 4,
+        "besar_watt": 12,
+        "besar_lumen": 1250,
+        "harga": 27000,
+        "link_produk": "https://shinyokuindonesia.com/products/6019165/shinyoku-lampu-led-mutiara-12w-__-putih",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984798620106760232/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 4,
+          "name": "Shinyoku",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 37,
+        "name": "LED Mutiara 9 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 4,
+        "besar_watt": 9,
+        "besar_lumen": 900,
+        "harga": 22000,
+        "link_produk": "https://shinyokuindonesia.com/products/6019215/shinyoku-lampu-led-mutiara-9w-__-putih",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984798639652241448/unknown.png?width=609&height=612",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 4,
+          "name": "Shinyoku",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 38,
+        "name": "LED Mutiara 7 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 4,
+        "besar_watt": 7,
+        "besar_lumen": 700,
+        "harga": 20000,
+        "link_produk": "https://shinyokuindonesia.com/products/6019255/shinyoku-lampu-led-mutiara-7w-__-putih",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984798649722748958/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 4,
+          "name": "Shinyoku",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 39,
+        "name": "LED Mutiara 5 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 4,
+        "besar_watt": 5,
+        "besar_lumen": 470,
+        "harga": 17000,
+        "link_produk": "https://shinyokuindonesia.com/products/6020470/shinyoku-lampu-led-mutiara-5w-__-putih",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984798663224197120/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 4,
+          "name": "Shinyoku",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 40,
+        "name": "OMNI ULTIMATE 18 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 5,
+        "besar_watt": 18,
+        "besar_lumen": 1800,
+        "harga": 39000,
+        "link_produk": "http://www.stark-indonesia.com/view-detail/220/OMNI-ULTIMATE-SERIES-18W",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984800293764087808/unknown.png?width=611&height=611",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 5,
+          "name": "Stark",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 41,
+        "name": "OMNI ULTIMATE 12 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 5,
+        "besar_watt": 12,
+        "besar_lumen": 1300,
+        "harga": 32000,
+        "link_produk": "http://www.stark-indonesia.com/view-detail/222/OMNI-ULTIMATE-SERIES-12W",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984800305340354560/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 5,
+          "name": "Stark",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 42,
+        "name": "OMNI ULTIMATE 9 Watt",
+        "jenis_lampu_id": 2,
+        "merk_id": 5,
+        "besar_watt": 9,
+        "besar_lumen": 970,
+        "harga": 25000,
+        "link_produk": "http://www.stark-indonesia.com/view-detail/223/OMNI-ULTIMATE-SERIES-9W",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984800315595444224/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 5,
+          "name": "Stark",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      },
+      {
+        "id": 43,
+        "name": "OMNI ULTIMATE 5 Wat",
+        "jenis_lampu_id": 2,
+        "merk_id": 5,
+        "besar_watt": 5,
+        "besar_lumen": 550,
+        "harga": 20000,
+        "link_produk": "http://www.stark-indonesia.com/view-detail/225/OMNI-ULTIMATE-SERIES-5W",
+        "link_gambar_produk": "https://media.discordapp.net/attachments/928650585929023508/984800335774236702/unknown.png",
+        "created_at": "2038-01-19T03:14:07.000000Z",
+        "updated_at": "2038-01-19T03:14:07.000000Z",
+        "jenis_lampu": {
+          "id": 2,
+          "name": "Light Emitting Diode",
+          "singkat": "LED",
+          "lumenperwatt": 100,
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        },
+        "merk_lampu": {
+          "id": 5,
+          "name": "Stark",
+          "created_at": "2038-01-19T03:14:07.000000Z",
+          "updated_at": "2038-01-19T03:14:07.000000Z"
+        }
+      }
+    ]
+  }
